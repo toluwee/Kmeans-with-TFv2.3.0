@@ -1,2 +1,2 @@
 # kmeans
-Example of KMeans algorithm for selecting t-shirt sizes implemented in Tensorflow
+Implementation of KMeans algorithm in Tensorflow v 2.3.0 for selecting t-shirt sizes 
